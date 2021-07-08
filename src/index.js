@@ -5,6 +5,6 @@
  */
 import React from 'react';
 const NpmTest = () => (
- <h1>这是我的第一个 react npm 组件</h1>
+ <h1>这是我的第一个 react npm 组件 kok</h1>
 );
 export default NpmTest;
